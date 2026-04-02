@@ -10,6 +10,7 @@ function App() {
   return (
     <>
       <h1 align="center">Hello World!</h1>
+      <h2>Change triggers CI/CD</h2>
     </>
   )
 }
